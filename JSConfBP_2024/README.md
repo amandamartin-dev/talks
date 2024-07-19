@@ -1,5 +1,9 @@
 In this location you will find the slide deck for my session from [JSConf Budapest](https://jsconfbp.com/) on Creativity in Software Engineering.
 
+## Recorded Session
+
+[YouTube](https://youtu.be/fOuybJCR-S0?si=usIFWuRwbpE7WcmR)
+
 ## References
 This content was informed by research.  Anything quoted on the slides can be found here
 
